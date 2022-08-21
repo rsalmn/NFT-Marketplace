@@ -25,7 +25,7 @@ This project relies on [NFT Contracts](https://github.com/rsalmn/NFT-Marketplace
 
 <hr />
 
-See it live on [Rinkeby Network](https://nft.s2paganini.com) 
+See it live on [Rinkeby Network](https://nft-marketplace.radensalman.codes) 
 
 <hr />
 
